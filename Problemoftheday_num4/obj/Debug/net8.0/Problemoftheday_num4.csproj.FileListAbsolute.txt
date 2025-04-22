@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\bin\Debug\net8.0\Problemoftheday_num4.exe
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\bin\Debug\net8.0\Problemoftheday_num4.deps.json
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\bin\Debug\net8.0\Problemoftheday_num4.runtimeconfig.json
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\bin\Debug\net8.0\Problemoftheday_num4.dll
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\bin\Debug\net8.0\Problemoftheday_num4.pdb
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\obj\Debug\net8.0\Problemoftheday_num4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\obj\Debug\net8.0\Problemoftheday_num4.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\obj\Debug\net8.0\Problemoftheday_num4.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\obj\Debug\net8.0\Problemoftheday_num4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\obj\Debug\net8.0\Problemoftheday_num4.dll
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\obj\Debug\net8.0\refint\Problemoftheday_num4.dll
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\obj\Debug\net8.0\Problemoftheday_num4.pdb
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\obj\Debug\net8.0\Problemoftheday_num4.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Iman\Problemoftheday_num4\Problemoftheday_num4\obj\Debug\net8.0\ref\Problemoftheday_num4.dll
